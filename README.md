@@ -1,2 +1,10 @@
-# Notes-mini-project
-My practice project for learning PHP. This Notes app lets you add, edit, and delete notes. Built without frameworks to focus on the fundamentals of PHP, PDO, and MVC-like structure.
+Notes App (Mini PHP CRUD)
+A simple notes application built with vanilla PHP, following the MVC-ish structure.
+Implements the full CRUD cycle: Create, Read, Update, and Delete notes.
+
+✨ Features
+ - Creating a note
+ - Viewing all notes and single note
+ - Update existing notes
+ - Delete notes
+ - Basic input validation
