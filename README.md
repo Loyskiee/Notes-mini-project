@@ -8,3 +8,9 @@ Implements the full CRUD cycle: Create, Read, Update, and Delete notes.
  - Update existing notes
  - Delete notes
  - Basic input validation
+
+💡 Future Improvements
+- Add authentication (register/login)
+- Support multiple user
+- Use proper MVC structure
+
