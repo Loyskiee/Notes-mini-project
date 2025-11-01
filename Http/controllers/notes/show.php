@@ -1,4 +1,5 @@
 <?php
+use Core\Database;
 
 require("../Database.php");
 require ("../functions.php");

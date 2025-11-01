@@ -1,4 +1,13 @@
 <?php
+
+view("notes/create.view.php", [
+    'heading' => 'Create Note',
+    'errors' => []
+]);
+//show the form view
+/*use Core\Database;
+use Core
+
 require ("../Database.php");
 require ("../functions.php");
 require ("../Validator.php");
@@ -27,4 +36,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 
-require "../views/create.php";
+require basePath("views/notes/create.view.php");
+*/

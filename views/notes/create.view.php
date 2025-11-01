@@ -1,7 +1,6 @@
-<?php require("partials/header.php");?>
-<?php require ("partials/nav.php");?>
-<?php require ("partials/banner.php");?>
-
+<?php require basePath("views/partials/header.php");?>
+<?php require basePath ("views/partials/nav.php");?>
+<?php require basePath ("views/partials/banner.php");?>
 
 <main>
     <form action ="/practice/controllers/note-create.php" method="POST">
@@ -32,4 +31,4 @@
     
  
 
-  <?php require("partials/footer.php");?>
+<?php require basePath("views/partials/footer.php");?>

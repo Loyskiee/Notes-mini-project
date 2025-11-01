@@ -13,4 +13,4 @@ Implements the full CRUD cycle: Create, Read, Update, and Delete notes.
 - Add authentication (register/login)
 - Support multiple user
 - Use proper MVC structure
-
+- Support Mobile

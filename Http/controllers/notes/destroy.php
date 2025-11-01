@@ -1,6 +1,6 @@
 <?php
-require ("../Database.php");
-require ("../functions.php");
+use Core\Database;
+
 
 $config = require("../config.php");
 $db = new Database($config['database']);

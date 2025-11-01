@@ -1,8 +1,7 @@
 <?php
+use Core\Database;
+use Core\Validator;
 
-require ("../Database.php");
-require ("../functions.php");
-require ("../Validator.php");
 
 $config = require("../config.php");
 $db = new Database($config['database']);
