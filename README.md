@@ -3,14 +3,14 @@ A simple notes application built with vanilla PHP, following the MVC-ish structu
 Implements the full CRUD cycle: Create, Read, Update, and Delete notes.
 
 ✨ Features
- - Creating a note
- - Viewing all notes and single note
- - Update existing notes
- - Delete notes
- - Basic input validation
-
-💡 Future Improvements
+- Creating a note
+- Viewing all notes and single note
+- Update existing notes
+- Delete notes
+- Basic input validation
 - Add authentication (register/login)
 - Support multiple user
+
+💡 Future Improvements
 - Use proper MVC structure
 - Support Mobile
